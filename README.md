@@ -50,6 +50,7 @@ Open your browser and visit:
 📂 Project Structure
 
 contactlist/
+contactlist/
 ├── manage.py          # Django management script
 ├── contactlist/
 │   ├── settings.py    # Project settings
@@ -61,3 +62,4 @@ contactlist/
 │   ├── urls.py        # Application URLs
 │   ├── templates/     # HTML templates
 └── static/            # Static files (CSS, JS, Images)
+
